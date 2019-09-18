@@ -2,7 +2,7 @@
 a shell script aim to automatically launch 50+ online web scanning tools in the Browsaer against a target domain in a 10 waves
 
 # Description:
-lazyGrandma: is a shell script aim to automatically launch 50+ online web scanning tools in the Browsaer against a target domain in a 10 waves.
+a shell script aim to automatically launch 50+ online web scanning tools in the Browsaer against a target domain in a 10 waves.
 
 Wave.1 	: Subdomains Enumeration
 
@@ -35,6 +35,7 @@ Wave.10 	: Github Dorks p2
 
 # DEPENDENCIES:
 iceweasel or xdg-utils (apt-get install xdg-utils)
+
 Linux
 
 # Credits
